@@ -5,6 +5,7 @@
 ## Welcome! 👋
 
 Thanks for checking out this.
+Here is a preview  https://openbrice.github.io/FAQ-type-Page/
 
 ## The challenge
 
